@@ -1,20 +1,21 @@
-Version du module: 1.0
+⚠️ Version du module: 1.0
 
-• Introduction :>
+⭐️• Introduction :>
 
 Le module PyAnti est un module, qui permet de faire des Compteurs ou encore des Comptes à rebours !
 
-• Authors :>
+⭐️• Authors :>
 
 Katsu'hi
 
-• Utilisation :>
+⭐️• Utilisation :>
 
-Compte à rebours : 
+
+🌹 Compte à rebours : 
 
 pyanti.Countdown(time, "text")
 
-Compteur : 
+
+🌹 Compteur : 
 
 pyanti.Counter(time, "text")
-
